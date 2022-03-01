@@ -1,20 +1,14 @@
-name: name
-description: Application for DataCap
+name: Bug Report
+description: File a bug report
 title: "[Bug]: "
-labels: ["Client App.", "CoffeeCloud","Data Cap", "Filecoin"]
+labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this Data Cap Client Appplication!
- - type: input
-    id: name
-    attributes:
-      label: Name
-      description: What is your name?
-      placeholder: ex. Dan Smith
+        Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:

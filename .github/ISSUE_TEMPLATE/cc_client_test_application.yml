@@ -159,6 +159,15 @@ body:
         - "Yes - I own the copyright"
         - "No - I do not own the copyright"
   - type: textarea
+    id: Project_Scale
+    attributes:
+      label: What is the scale or scope of the project?
+      description: What is the scope of your project? Large? Small? Number of users? 
+      placeholder: My project will be limited to my university campus, only focusing on my specific department with a total of 20 users. 
+      value: 
+    validations:
+      required: false
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?

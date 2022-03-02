@@ -99,6 +99,15 @@ body:
     validations:
       required: false
   - type: textarea
+    id: Web_Links
+    attributes:
+      label: Can you provide links to any related websites?
+      description: Please provide links to any related websites or blogs.
+      placeholder: Website - https://coffeecloud.io/#/home Blog - https://coffeecloudblog.io/
+      value: 
+    validations:
+      required: false
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?

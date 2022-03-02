@@ -141,7 +141,7 @@ body:
       placeholder: My data is a personal video project I recorded or May data is scientific research data
       value: 
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: Data_public_or_private
     attributes:
@@ -150,6 +150,8 @@ body:
       options:
         - "Public"
         - "Private"
+    validations:
+      required: true
   - type: dropdown
     id: Own_data_copyright
     attributes:

@@ -167,6 +167,32 @@ body:
       value: 
     validations:
       required: false
+  - type: input
+    id: Estimated_Data_Size
+    attributes:
+      label: What is your estimated Data Size?
+      description: Please provide an estimated data size for project will use.
+      placeholder: 500MB
+    validations:
+      required: false
+  - type: textarea
+    id: Other_Project_Notes
+    attributes:
+      label: Please provide any additional project notes, information or technical details
+      description:  
+      placeholder:  
+      value: 
+    validations:
+      required: false
+  - type: textarea
+    id: Assign_To_Miner
+    attributes:
+      label: Are you looking to assign this project to any particular miner?
+      description: If you are looking to assign this project to a particular miner, please provide details.
+      placeholder: I am not looking to assign this project to any miner in particular.
+      value: 
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:

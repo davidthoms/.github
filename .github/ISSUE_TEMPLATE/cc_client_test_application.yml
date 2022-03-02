@@ -90,6 +90,16 @@ body:
     validations:
       required: false
   - type: textarea
+    id: Press_Coverage
+    attributes:
+      label: Can you provide any recent Press coverage?
+      description: Can you provide any articles, videos or recent press coverage?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: false
+
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?

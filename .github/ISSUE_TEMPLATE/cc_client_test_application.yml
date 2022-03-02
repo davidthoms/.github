@@ -58,15 +58,13 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: browsers
+    id: asia_pacific
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Are you located in the Asia Pacific region?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Yes
+        - No
   - type: textarea
     id: what-happened
     attributes:

@@ -44,9 +44,17 @@ body:
   - type: input
     id: oldest_social_media
     attributes:
-      label: oldest social media accouint
+      label: Oldest Social Media Account
       description: What is your oldest Social Media Account?
       placeholder: https://www.facebook.com/Coffee-Cloudio
+    validations:
+      required: false
+  - type: input
+    id: date_social_media
+    attributes:
+      label: Date Social Media Account
+      description: When Was Your Social Media Account Created?
+      placeholder: 1st April, 20202
     validations:
       required: false
   - type: textarea

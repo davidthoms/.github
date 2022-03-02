@@ -63,8 +63,8 @@ body:
       label: Are you located in the Asia Pacific region?
       multiple: true
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: textarea
     id: what-happened
     attributes:

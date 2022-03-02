@@ -54,7 +54,7 @@ body:
     attributes:
       label: Date Social Media Account
       description: When Was Your Social Media Account Created?
-      placeholder: 1st April, 20202
+      placeholder: 1st April, 2020
     validations:
       required: false
   - type: textarea

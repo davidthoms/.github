@@ -10,11 +10,11 @@ body:
       value: |
         Thanks for filling out CoffeeCloud Client Application Form!
   - type: input
-    id: contact
+    id: Name
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Name
+      description: What is your name?
+      placeholder: ex. John Smith
     validations:
       required: false
   - type: input

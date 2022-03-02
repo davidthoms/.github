@@ -46,7 +46,7 @@ body:
     attributes:
       label: oldest social media accouint
       description: What is your oldest Social Media Account?
-      placeholder: Facebook - https://www.facebook.com/Coffee-Cloudio
+      placeholder: https://www.facebook.com/Coffee-Cloudio
     validations:
       required: false
   - type: textarea

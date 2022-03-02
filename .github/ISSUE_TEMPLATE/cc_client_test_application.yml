@@ -34,7 +34,7 @@ body:
     validations:
       required: true
    - type: input
-    id: github_account
+    id: github
     attributes:
       label: GitHub Account
       description: Do you have a you GitHub account?

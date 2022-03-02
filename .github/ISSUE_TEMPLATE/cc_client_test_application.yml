@@ -57,7 +57,7 @@ body:
       placeholder: 1st April, 2020
     validations:
       required: false
-  - type: dropdown
+ - type: dropdown
     id: version
     attributes:
       label: Located In Asia

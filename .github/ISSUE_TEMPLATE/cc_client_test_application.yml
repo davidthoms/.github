@@ -16,6 +16,14 @@ body:
       description: What is your name?
       placeholder: ex. John Smith
     validations:
+      required: true
+  - type: input
+    id: Company Name
+    attributes:
+      label: Company / Organization Name
+      description: What is the name of your Company / Organization name?
+      placeholder: ex. Coffee Cloud Ltd
+    validations:
       required: false
   - type: input
     id: contact
@@ -24,7 +32,7 @@ body:
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:

@@ -127,9 +127,18 @@ body:
   - type: textarea
     id: Data_Format
     attributes:
-      label: What is the data? What is the Format?
-      description: Please describe which the format of the data (video, audio, information, etc.)
+      label: What is the Data? What is the Format?
+      description: Please describe which the format of the Data (video, audio, information, etc.)
       placeholder: My project is a video format in MP4.
+      value: 
+    validations:
+      required: false
+  - type: textarea
+    id: Data_Source
+    attributes:
+      label: What is the source of your Data? Where is it from?
+      description: Please describe the source of your data? 
+      placeholder: My data is a personal video project I recorded or May data is scientific research data
       value: 
     validations:
       required: false

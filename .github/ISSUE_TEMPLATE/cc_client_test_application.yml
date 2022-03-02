@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report
+description: Coffee Cloud Application
 title: "[CoffeeCloud Client Applicaiton]: "
 labels: ["data cap", "client app.", "filecoin"]
 assignees:
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for filling out CoffeeCloud Client Application Form!
   - type: input
     id: contact
     attributes:

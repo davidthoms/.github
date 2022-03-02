@@ -81,6 +81,14 @@ body:
       options:
         - "Individual"
         - "Organization"
+  - type: input
+    id: company_name
+    attributes:
+      label: Organization / Company Name 
+      description: What is your organization or Company name?
+      placeholder: ex. Coffee Cloud Ltd.
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:

@@ -73,6 +73,14 @@ body:
       placeholder: ex. Spain
     validations:
       required: true
+  - type: dropdown
+    id: individual_or_organization
+    attributes:
+      label: Are you applying as a individual or an organization?
+      multiple: true
+      options:
+        - "Individual"
+        - "Organization"
   - type: textarea
     id: what-happened
     attributes:

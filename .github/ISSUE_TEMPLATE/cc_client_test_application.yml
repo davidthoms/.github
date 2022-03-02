@@ -1,4 +1,4 @@
-name: Bug Report
+name: Coffee Cloud Client Application Form
 description: Coffee Cloud Application
 title: "[CoffeeCloud Client Applicaiton]: "
 labels: ["data cap", "client app.", "filecoin"]
@@ -33,6 +33,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: true
+   - type: input
+    id: github_account
+    attributes:
+      label: GitHub Account
+      description: Do you have a you GitHub account?
+      placeholder: ex. https://github.com/coffee-cloud-project
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:

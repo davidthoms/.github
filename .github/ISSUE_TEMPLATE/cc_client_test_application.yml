@@ -18,7 +18,7 @@ body:
     validations:
       required: true
   - type: input
-    id: company name
+    id: company_name
     attributes:
       label: Company / Organization Name
       description: What is the name of your Company / Organization name?

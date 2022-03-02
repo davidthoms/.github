@@ -103,7 +103,24 @@ body:
     attributes:
       label: Can you provide links to any related websites?
       description: Please provide links to any related websites or blogs.
-      placeholder: Website - https://coffeecloud.io/#/home Blog - https://coffeecloudblog.io/
+      placeholder: Website - https://coffeecloud.io/#/home  Blog - https://coffeecloudblog.io/
+      value: 
+    validations:
+      required: false
+  - type: input
+    id: Filecoin_Address
+    attributes:
+      label: Filecoin Address
+      description: Please provide your Filecoin Address
+      placeholder: 
+    validations:
+      required: false
+  - type: textarea
+    id: Past_Projects
+    attributes:
+      label: Can you provide any details on past projects?
+      description: Please provide any relevent details on past projects (please include links if available) 
+      placeholder: We work previously on a Filecoin project - www.filecoinproject.com
       value: 
     validations:
       required: false

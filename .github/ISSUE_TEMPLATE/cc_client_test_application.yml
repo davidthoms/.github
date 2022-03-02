@@ -18,14 +18,6 @@ body:
     validations:
       required: true
   - type: input
-    id: company_name
-    attributes:
-      label: Company Organization Name
-      description: What is the name of your Company / Organization name?
-      placeholder: ex. Coffee Cloud Ltd
-    validations:
-      required: false
-  - type: input
     id: contact
     attributes:
       label: Contact Details
@@ -87,6 +79,14 @@ body:
       label: Organization / Company Name 
       description: What is your organization or Company name?
       placeholder: ex. Coffee Cloud Ltd.
+    validations:
+      required: false
+  - type: input
+    id: Number_of_employees
+    attributes:
+      label: Number of Employees
+      description: How many employees do you have?
+      placeholder: ex. 25 Employees
     validations:
       required: false
   - type: textarea

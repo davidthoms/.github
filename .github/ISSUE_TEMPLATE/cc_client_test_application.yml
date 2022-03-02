@@ -38,7 +38,7 @@ body:
     attributes:
       label: GitHub Account
       description: Do you have a you GitHub account?
-      placeholder: 
+      placeholder: https://github.com/coffee-cloud-project/
     validations:
       required: false
   - type: textarea

@@ -41,7 +41,7 @@ body:
       placeholder: https://github.com/coffee-cloud-project/
     validations:
       required: false
-  - type: input
+ - type: input
     id: oldest social media
     attributes:
       label: oldest social media accouint

@@ -1,5 +1,4 @@
 
-
 name: Coffee Cloud Client Application Form
 description: Coffee Cloud Application
 title: "[CoffeeCloud Client Applicaiton]: "
@@ -78,7 +77,7 @@ body:
         - 1.0.3 (Edge)
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: browsers
     attributes:
       label: What browsers are you seeing the problem on?
@@ -88,7 +87,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-- type: textarea
+  - type: textarea
     id: logs
     attributes:
       label: Relevant log output

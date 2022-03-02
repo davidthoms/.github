@@ -63,8 +63,8 @@ body:
       label: Located In Asia
       description: Are you located in Asia Pacific Region?
       options:
-        - Yes
-        - No
+       - Yes
+       - No
     validations:
       required: true
 - type: textarea

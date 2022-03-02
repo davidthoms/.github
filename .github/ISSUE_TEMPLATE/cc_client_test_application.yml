@@ -57,7 +57,17 @@ body:
       placeholder: 1st April, 2020
     validations:
       required: false
-  - type: textarea
+  - type: dropdown
+    id: version
+    attributes:
+      label: located_in_asia
+      description: Are you located in Asia Pacific Region?
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+- type: textarea
     id: what-happened
     attributes:
       label: What happened?

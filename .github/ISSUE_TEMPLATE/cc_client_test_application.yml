@@ -112,7 +112,7 @@ body:
     attributes:
       label: Filecoin Address
       description: Please provide your Filecoin Address
-      placeholder: 
+      placeholder: f1kc5ami5ejqept4ydpjme5ytzywzvrgfxxsjy57i
     validations:
       required: false
   - type: textarea
@@ -142,6 +142,22 @@ body:
       value: 
     validations:
       required: false
+  - type: dropdown
+    id: Data_public_or_private
+    attributes:
+      label: Is your Data Public or Private?
+      multiple: true
+      options:
+        - "Public"
+        - "Private"
+  - type: dropdown
+    id: Own_data_copyright
+    attributes:
+      label: Do you own the copyright for your Data?
+      multiple: true
+      options:
+        - "Yes - I own the copyright"
+        - "No - I do not own the copyright"
   - type: textarea
     id: what-happened
     attributes:

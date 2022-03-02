@@ -94,11 +94,10 @@ body:
     attributes:
       label: Can you provide any recent Press coverage?
       description: Can you provide any articles, videos or recent press coverage?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Press Coverage from BBC - https://www.bbc.co.uk/sounds/play/w3cszcp7
+      value: 
     validations:
       required: false
-
   - type: textarea
     id: what-happened
     attributes:

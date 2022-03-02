@@ -41,6 +41,14 @@ body:
       placeholder: https://github.com/coffee-cloud-project/
     validations:
       required: false
+  - type: input
+    id: oldest social media
+    attributes:
+      label: oldest social media accouint
+      description: What is your oldest Social Media Account?
+      placeholder: Facebook - https://www.facebook.com/Coffee-Cloudio
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:

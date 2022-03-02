@@ -33,14 +33,6 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: true
-   - type: input
-    id: github_account
-    attributes:
-      label: GitHub Account
-      description: Do you have a you GitHub account?
-      placeholder: ex. https://github.com/coffeecloudproject
-    validations:
-      required: false
   - type: textarea
     id: what-happened
     attributes:

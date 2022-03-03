@@ -107,6 +107,15 @@ body:
       value: 
     validations:
       required: false
+- type: textarea
+    id: Describe_Reputation
+    attributes:
+      label: How would you describe you or your organizations reputation?
+      description: In your own words how would you describe your organizations Reputation
+      placeholder: Our company is know for being very trustworth, and delivering high quality products. This reviews support this assessment - Link to reviews
+      value: 
+    validations:
+      required: false
   - type: input
     id: Filecoin_Address
     attributes:
@@ -127,12 +136,22 @@ body:
   - type: textarea
     id: Filecoin_Community
     attributes:
-      label: Provide any details regarding your participation within the Filecoin community? Activities, contributions, support, projects, etc
+      label: Provide any details regarding your participation within the Filecoin community? 
       description: Please provide links or activities, contributions, support, projects, within the Filecoin ecosystem
       placeholder: I support this Filecoin project and contributed in this way. Please see linkn below Filecoin project - www.filecoinproject.com
       value: 
     validations:
       required: false
+  - type: textarea
+    id: Community_Contribution
+    attributes:
+      label: Will you continue to this project long term and develop it further? Will you contribute regularly and help support other memebers of the community?
+      description: Will you be an active long term member of the community?
+      placeholder: I am looking to become an active long term member of the community, contributing and a weekly basis.
+      value: 
+    validations:
+      required: false
+
   - type: textarea
     id: Data_Format
     attributes:

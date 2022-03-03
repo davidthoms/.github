@@ -180,6 +180,15 @@ body:
     validations:
       required: false
   - type: textarea
+    id: Project_Transparency
+    attributes:
+      label: How will you should project transparency?
+      description: How will you show transparency for project? What tools will you use to do this? 
+      placeholder: I will create a table in GitHub for monitoring progress or I will create a Google Doc showing allocation and project details.
+      value: 
+    validations:
+      required: false
+  - type: textarea
     id: Other_Project_Notes
     attributes:
       label: Please provide any additional project notes, information or technical details

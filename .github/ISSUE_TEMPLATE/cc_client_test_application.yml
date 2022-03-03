@@ -107,15 +107,6 @@ body:
       value: 
     validations:
       required: false
-- type: textarea
-    id: Describe_Reputation
-    attributes:
-      label: How would you describe you or your organizations reputation?
-      description: In your own words how would you describe your organizations Reputation
-      placeholder: Our company is know for being very trustworth, and delivering high quality products. This reviews support this assessment - Link to reviews
-      value: 
-    validations:
-      required: false
   - type: input
     id: Filecoin_Address
     attributes:

@@ -107,6 +107,15 @@ body:
       value: 
     validations:
       required: false
+  - type: textarea
+    id: Reputation
+    attributes:
+      label: How would you describe your or your companies reputationtCan you provide links to any related websites?
+      description: Are your organizated? Professional? Know for quality? Trustworthy?
+      placeholder: How would other people describe your or your organizaiton?
+      value: 
+    validations:
+      required: false
   - type: input
     id: Filecoin_Address
     attributes:

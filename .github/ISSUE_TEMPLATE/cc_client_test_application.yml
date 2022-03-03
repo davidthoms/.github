@@ -119,8 +119,17 @@ body:
     id: Past_Projects
     attributes:
       label: Can you provide any details on past projects?
-      description: Please provide any relevent details on past projects (please include links if available) 
+      description: Please provide any relevent details on past projects? In particular please provide links and details to any projects related to Filecoin 
       placeholder: We work previously on a Filecoin project - www.filecoinproject.com
+      value: 
+    validations:
+      required: false
+  - type: textarea
+    id: Filecoin_Community
+    attributes:
+      label: Provide any details regarding your participation within the Filecoin community? Activities, contributions, support, projects, etc
+      description: Please provide links or activities, contributions, support, projects, within the Filecoin ecosystem
+      placeholder: I support this Filecoin project and contributed in this way. Please see linkn below Filecoin project - www.filecoinproject.com
       value: 
     validations:
       required: false

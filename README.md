@@ -34,6 +34,12 @@ To ensure proper evaluation of client applications, sign off and review on proje
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/22745254/159645575-d5874561-3429-4540-8835-41bddc8e0449.png">
 
 
+Clients can also follow up and comment on their application by clicking on their project on our summary page.
+
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/22745254/159653022-63c11a91-07a6-4ace-92d4-b93539a88620.png">
 
 
+Then comment at the bottom of the page, providing any details or follow up information required. 
+
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/22745254/159652708-48a61d5f-c569-48ad-be5e-16136f492d8e.png">
 

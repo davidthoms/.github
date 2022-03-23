@@ -1,6 +1,6 @@
-#Coffee Cloud Client Review Process:
+# Coffee Cloud Client Review Process:
 
-1. Please submit your Data Cap Client Review Application Here:     https://bit.ly/3N9R0VQ
+## 1. Please submit your Data Cap Client Application Here:     https://bit.ly/3N9R0VQ
 
 Please complete the form as much as possible to ensure effient review and processing.
 
@@ -10,7 +10,10 @@ Please complete the form as much as possible to ensure effient review and proces
 
 
 
-2. Your Client Application will be reviewed by the Coffee Cloud Team. The information provided in your application will be used to review your application. 
+## 2. Your Client Review Process
+Your Client Application will be reviewed by the Coffee Cloud Team. The information provided in your application will be used to review your application. 
+
+### How Do I Review My Application?
 
 You Are Able to Review all Client Applications statuses in our Project Table Regarding the different stages:
 
@@ -23,16 +26,22 @@ All key details of the project will be summarize by the team for efficient revie
 
 <img width="2225" alt="image" src="https://user-images.githubusercontent.com/22745254/159644488-b63f81d4-d258-43df-89a3-31dbbabf9d4b.png">
 
+### Transparency
+
 This transparent project overview allows us to keep track of all data cap applications information in one single place. We want to provide a transparent bookkeeping process for our teams and Filecoin community. It also allows us to add or address any problems, issues or conflicts publicly. 
 
 Issues or additional information may be raised regarding your application in order for your client application to be processed. 
 
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/22745254/159649043-6d30c766-f87e-4216-b3b8-1bf838219eac.png">
 
+### Coffee Cloud Team Sign Off
+
 To ensure proper evaluation of client applications, sign off and review on projects needs to be provided by 2 x Coffee Cloud team members. Currently, this is Job and Dave. 
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/22745254/159645575-d5874561-3429-4540-8835-41bddc8e0449.png">
 
+
+### Feedback, Comments & Follow Up
 
 Clients can also follow up and comment on their application by clicking on their project on our summary page.
 

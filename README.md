@@ -2,6 +2,9 @@ Coffee Cloud Client Review Process:
 
 1. Please submit your Client Review Application Here: https://bit.ly/3ipStJA
 
+<img width="1039" alt="image" src="https://user-images.githubusercontent.com/22745254/159622208-951a9724-b91b-4dbc-b5fa-6464cb90ea1f.png">
+
+
 2. Your Client Application will be reviewed by the Coffee Cloud Team. The information provided in your application will be used to review your applicatoin. 
 
 You Are Able to Review All Applications in our Project Table Regarding the different stages:

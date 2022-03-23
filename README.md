@@ -19,4 +19,4 @@ Issues may be raised regarding your application in order for your application to
 
 In order for your applicaiton to be successful you will requires 2 x Coffee Cloud team members to Review and Sign off your request.
 
-All activities and bookskeeping will be transparent and made public for community. 
+All activities and bookskeeping will be transparent and made public for community review. 

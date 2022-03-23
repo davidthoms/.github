@@ -1,6 +1,6 @@
 Coffee Cloud Client Review Process:
 
-1. Please submit your Client Review Application Here: https://bit.ly/3ipStJA
+1. Please submit your Client Review Application Here: https://bit.ly/3N9R0VQ
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/22745254/159622208-951a9724-b91b-4dbc-b5fa-6464cb90ea1f.png">
 

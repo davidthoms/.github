@@ -6,6 +6,9 @@ Coffee Cloud Client Review Process:
 
 You Are Able to Review All Applications in our Project Table Regarding the different stages:
 
+Click Here to Review - https://bit.ly/3Is45WR
+
+
 <img width="2122" alt="image" src="https://user-images.githubusercontent.com/22745254/159620799-167c5414-6cea-4e4b-a47c-55a6108963d9.png">
 
 

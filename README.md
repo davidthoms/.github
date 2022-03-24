@@ -11,7 +11,7 @@ Please complete the form as much as possible to ensure effient review and proces
 
 
 ## 2. Your Client Review Process
-Your Client Application will be reviewed by the Coffee Cloud Team. The information provided in your application will be used to review your application. 
+Your Client Application will be reviewed by the Coffee Cloud Team. The information provided in your application will be used within your review. Please be aware that the information provide will be public, as part of our community guidelines.
 
 ### How Do I Review My Application?
 
@@ -52,3 +52,14 @@ Then comment at the bottom of the page, providing any details or follow up infor
 
 <img width="563" alt="image" src="https://user-images.githubusercontent.com/22745254/159652708-48a61d5f-c569-48ad-be5e-16136f492d8e.png">
 
+## Monitor Data Cap Use By Client
+
+We’ll use this code to monitor our own Data Cap using, checking the remaining on a daily basis. We will automated this code allow us to response to issues in a timely manner and monitor data use
+
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/22745254/159835323-247b49a6-81c2-4ddb-ac5e-89a8c5ec2ad0.png">
+
+We will use this code to help monitor the clients data cap use, also on a daily basis to ensure everything is being used appropriately.
+
+<img width="1181" alt="image" src="https://user-images.githubusercontent.com/22745254/159835860-c887a785-b062-48c8-bff4-20282820a9f7.png">
+
+This process will be updated and improve efficiency and transparency over time.

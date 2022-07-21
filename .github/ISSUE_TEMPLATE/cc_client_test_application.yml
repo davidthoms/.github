@@ -40,7 +40,7 @@ body:
       description: What is your oldest Social Media Account?
       placeholder: https://www.facebook.com/Coffee-Cloudio
     validations:
-      required: false
+      required: true
   - type: input
     id: date_social_media
     attributes:
@@ -48,7 +48,7 @@ body:
       description: When Was Your Social Media Account Created?
       placeholder: 1st April, 2020
     validations:
-      required: false
+      required: true
   - type: textarea
     id: All_Social_Media
     attributes:
@@ -57,7 +57,7 @@ body:
       placeholder: Facebook - www.facebook.com/coffeecloud
       value: 
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: asia_pacific
     attributes:
@@ -115,7 +115,7 @@ body:
       placeholder: Website - https://coffeecloud.io/#/home  Blog - https://coffeecloudblog.io/
       value: 
     validations:
-      required: false
+      required: true
   - type: textarea
     id: Reputation
     attributes:
@@ -169,7 +169,7 @@ body:
       placeholder: My project is a video format in MP4.
       value: 
     validations:
-      required: false
+      required: true
   - type: textarea
     id: Data_Source
     attributes:
@@ -207,7 +207,7 @@ body:
       placeholder: My project will be limited to my university campus, only focusing on my specific department with a total of 20 users. 
       value: 
     validations:
-      required: false
+      required: true
   - type: input
     id: Estimated_Data_Size
     attributes:
@@ -215,11 +215,11 @@ body:
       description: Please provide an estimated data size for project will use.
       placeholder: 500MB
     validations:
-      required: false
+      required: true
   - type: textarea
     id: Project_Transparency
     attributes:
-      label: How will you should project transparency?
+      label: How will you show project transparency?
       description: How will you show transparency for project? What tools will you use to do this? 
       placeholder: I will create a table in GitHub for monitoring progress or I will create a Google Doc showing allocation and project details.
       value: 
